@@ -23,9 +23,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define VENDOR_ID       0xFEED
 #define PRODUCT_ID      0x6512
 #define DEVICE_VER      0x0001
-#define MANUFACTURER    t.m.k.
-#define PRODUCT         PS/2 keyboard converter
-#define DESCRIPTION     convert PS/2 keyboard to USB
+#define MANUFACTURER    Brentward Industries Ltd.
+#define PRODUCT         PS/2 Keyboard Converter
+#define DESCRIPTION     Convert PS/2 keyboard to USB
 
 
 /* matrix size */
