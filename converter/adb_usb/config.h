@@ -22,9 +22,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define VENDOR_ID       0xFEED
 #define PRODUCT_ID      0x0ADB
 #define DEVICE_VER      0x0101
-#define MANUFACTURER    t.m.k.
-#define PRODUCT         ADB keyboard converter
-#define DESCRIPTION     convert ADB keyboard to USB
+#define MANUFACTURER    Brentward Industries Ltd.
+#define PRODUCT         ADB Keyboard Converter
+#define DESCRIPTION     Convert ADB keyboard to USB
 
 /* matrix size */
 #define MATRIX_ROWS 16  // keycode bit: 3-0
